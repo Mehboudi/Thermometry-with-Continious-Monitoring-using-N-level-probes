@@ -18,8 +18,8 @@ I) fermion=1; means that we run for fermionic case (with flat SD)
 If you set the parameter ferm_3lev=0, the code finds global optimal.
 This turns out to be very close to an effective 2-level system, with one gap equal to zero.
 
-If you set the parameter ferm_3lev=1, the code uses the 2-level ansatz. It leaves the degeneracy
-of each level as an open parameter, and finds the best one.
+If you set the parameter ferm_3lev=1, the code uses the 2-level ansatz. It leaves the degeneracy and gap
+as the open parameters, and finds the best ones.
 
 
 
