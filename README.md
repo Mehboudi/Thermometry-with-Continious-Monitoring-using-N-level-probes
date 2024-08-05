@@ -1,5 +1,7 @@
 # Thermometry with Continious Monitoring using N level probes
- These codes are attached to our paper "TBA". They help finding the optimal energy structure of N-level probes that continiously monitor the temperature of a fermionic/bosonic bath
+ These codes are attached to our paper "[Optimal limits of continuously monitored thermometers and their Hamiltonian structure
+](Optimal limits of continuously monitored thermometers and their Hamiltonian structure
+)". They help finding the optimal energy structure of N-level probes that continiously monitor the temperature of a fermionic/bosonic bath
 
 
 # HERE are further instructions:
