@@ -30,5 +30,5 @@ II) fermion=0; means that we run for bosonic case (with ohmicity s_o, you shold 
 If you set the parameter ferm_3lev=0, the code finds global optimal.
 This turns out to be very close to an effective 2-level system, with one gap equal to zero.
 
-If you set the parameter ferm_3lev=1, the code uses the 2-level ansatz. It leaves the degeneracy
+If you set the parameter bose_3lev=1, the code uses the 2-level ansatz. It leaves the degeneracy
 of each level as an open parameter, and finds the best one.
