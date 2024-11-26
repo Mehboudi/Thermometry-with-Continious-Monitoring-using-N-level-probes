@@ -32,3 +32,9 @@ This turns out to be very close to an effective 2-level system, with one gap equ
 
 If you set the parameter bose_3lev=1, the code uses the 2-level ansatz. It leaves the degeneracy
 of each level as an open parameter, and finds the best one.
+
+## Robustness to energy structure
+In a new update, we also include some codes that consider robustness of the FI to the Hamiltonian structure. In particular, instead of the optimal structure, which is two levels with energies that are sharply equal, we consider two -levels with energies that can fluctuate around the optimal values. These are modeled with some Gaussian distribution of the energies around the optimal values.
+
+You can run the robustness only for the fermionic case, but bosonic should be similar.
+The code is called run_robustness_ham_structure. The main new parameter to change is the standard deviation of the energy levels, sigma. 
