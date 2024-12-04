@@ -1,14 +1,3 @@
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
 # Thermometry with Continious Monitoring using N level probes
  These codes are attached to our paper "[Optimal limits of continuously monitored thermometers and their Hamiltonian structure
 ](https://arxiv.org/abs/2408.01313v1)" [arXiv:2408.01313]. They help finding the optimal energy structure of N-level probes that continiously monitor the temperature of a fermionic/bosonic bath
